@@ -35,12 +35,12 @@ This project is an interactive animation created using OpenGL and C. It features
 
 ## Credits
 
-- [Author Name]: [GitHub Profile](https://github.com/[username])
+- [Mariam Rashad]: [https://github.com/MariamRashad6]
 
 
 ## Demo Video
 
-Check out the demo video of the Penguin Animation with Christmas Vibes on [YouTube](https://youtu.be/your-video-link). The video provides an overview of the project, showcasing its various features and animations.
+Check out the demo video of the Penguin Animation with Christmas Vibes on [https://drive.google.com/file/d/1ZHn-cWQ2-P2NwUzI4xLUBXCSJwFNNSzj/view?usp=sharing]. The video provides an overview of the project, showcasing its various features and animations.
 
 
 
