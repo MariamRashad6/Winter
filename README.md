@@ -35,7 +35,7 @@ This project is an interactive animation created using OpenGL and C. It features
 
 ## Credits
 
-- Mariam Rashad: ([https://github.com/MariamRashad6])
+- Mariam Rashad: https://github.com/MariamRashad6
 
 
 ## Demo Video
