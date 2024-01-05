@@ -2,7 +2,7 @@
 # Penguin Animation with Christmas Vibes
 
 This project is an interactive animation created using OpenGL and C. It features a penguin character in a festive Christmas-themed environment, with various animations and Christmas vibes.
-![2d winter project.png]
+![2d winter project](https://github.com/MariamRashad6/Winter/blob/main/2d%20winter%20project.png)
 ## Features
 
 - 2D Penguin Model: A well-defined 2D model of a penguin is implemented using OpenGL's drawing functions and geometric primitives.
